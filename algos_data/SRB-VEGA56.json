@@ -1,0 +1,88 @@
+{
+    "algos": [
+        {
+            "algo": "bittubev2",
+            "config": "Config\\config-bittubev2.txt",
+            "hashrate": 13397,
+            "startup_script": ""
+        },
+        {
+            "algo": "fast",
+            "config": "Config\\config-fast.txt",
+            "hashrate": 29348,
+            "startup_script": ""
+        },
+        {
+            "algo": "fast2",
+            "config": "Config\\config-fast2.txt",
+            "hashrate": 27917,
+            "startup_script": ""
+        },
+        {
+            "algo": "gpu",
+            "config": "Config\\config-gpu.txt",
+            "hashrate": 13214,
+            "startup_script": ""
+        },
+        {
+            "algo": "graft",
+            "config": "Config\\config-graft.txt",
+            "hashrate": 19136,
+            "startup_script": ""
+        },
+        {
+            "algo": "haven",
+            "config": "Config\\config-haven.txt",
+            "hashrate": 13801,
+            "startup_script": ""
+        },
+        {
+            "algo": "heavy",
+            "config": "Config\\config-heavy.txt",
+            "hashrate": 13808,
+            "startup_script": ""
+        },
+        {
+            "algo": "litev7",
+            "config": "Config\\config-litev7.txt",
+            "hashrate": 33623,
+            "startup_script": ""
+        },
+        {
+            "algo": "normalv4",
+            "config": "Config\\config-normalv4.txt",
+            "hashrate": 14373,
+            "startup_script": ""
+        },
+        {
+            "algo": "normalv7",
+            "config": "Config\\config-normalv7.txt",
+            "hashrate": 15431,
+            "startup_script": ""
+        },
+        {
+            "algo": "normalv8",
+            "config": "Config\\config-normalv8.txt",
+            "hashrate": 14533,
+            "startup_script": ""
+        },
+        {
+            "algo": "stellitev8",
+            "config": "Config\\config-stellitev8.txt",
+            "hashrate": 27916,
+            "startup_script": ""
+        },
+        {
+            "algo": "turtle",
+            "config": "Config\\config-turtle.txt",
+            "hashrate": 120621,
+            "startup_script": ""
+        },
+        {
+            "algo": "wownero",
+            "config": "Config\\config-wownero.txt",
+            "hashrate": 14350,
+            "startup_script": ""
+        }
+    ]
+}
