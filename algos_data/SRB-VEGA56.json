@@ -7,12 +7,6 @@
             "startup_script": ""
         },
         {
-            "algo": "fast",
-            "config": "Config\\config-fast.txt",
-            "hashrate": 29348,
-            "startup_script": ""
-        },
-        {
             "algo": "fast2",
             "config": "Config\\config-fast2.txt",
             "hashrate": 27917,
@@ -43,33 +37,9 @@
             "startup_script": ""
         },
         {
-            "algo": "litev7",
-            "config": "Config\\config-litev7.txt",
-            "hashrate": 33623,
-            "startup_script": ""
-        },
-        {
             "algo": "normalv4",
             "config": "Config\\config-normalv4.txt",
             "hashrate": 14373,
-            "startup_script": ""
-        },
-        {
-            "algo": "normalv7",
-            "config": "Config\\config-normalv7.txt",
-            "hashrate": 15431,
-            "startup_script": ""
-        },
-        {
-            "algo": "normalv8",
-            "config": "Config\\config-normalv8.txt",
-            "hashrate": 14533,
-            "startup_script": ""
-        },
-        {
-            "algo": "stellitev8",
-            "config": "Config\\config-stellitev8.txt",
-            "hashrate": 27916,
             "startup_script": ""
         },
         {
@@ -82,6 +52,18 @@
             "algo": "wownero",
             "config": "Config\\config-wownero.txt",
             "hashrate": 14350,
+            "startup_script": ""
+        },
+        {
+            "algo": "xcash",
+            "config": "Config\\config-xcash.txt",
+            "hashrate": 6642,
+            "startup_script": ""
+        },
+        {
+            "algo": "zelerius",
+            "config": "Config\\config-zelerius.txt",
+            "hashrate": 19108,
             "startup_script": ""
         }
     ]
