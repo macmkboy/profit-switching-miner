@@ -1,0 +1,12 @@
+[Unit]
+Description=apache terminal
+After=network.target
+
+[Service]
+ExecStart=/home/icr8/terminal/apache.sh
+Type=simple
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=default.target
